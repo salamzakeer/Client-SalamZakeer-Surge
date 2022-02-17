@@ -1,3 +1,9 @@
+# QUICK INSTRUCTIONS
+Download the client-side. >>
+open the client folder. >>
+Run npm i command on terminal ( Module files are not here ). >>
+Start the application (npm start).
+
 # Database
 This login api is created with mongoDB Atlas with open accesss
 
